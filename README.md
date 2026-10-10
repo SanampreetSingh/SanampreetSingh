@@ -7,8 +7,8 @@
 Computer Science student at Chandigarh University (2027)
 Incoming **Software Craftsperson Apprentice @ Incubyte**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sanam68545@gmail.com)
+<a href="https://www.linkedin.com/in/sanampreet-singh-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn"></a>
+<a href="mailto:sanam68545@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
 
@@ -40,7 +40,7 @@ Every user gets their own isolated Linux container, plus a code editor, file exp
 
 **Stack:** React · Vite · Monaco Editor · xterm.js · Tailwind CSS · Redux Toolkit · Node.js · Express · TypeScript · socket.io · node-pty · Docker · Nginx · MongoDB
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](YOUR_CLOUD_IDE_REPO_URL)
+<a href="https://github.com/SanampreetSingh/Online-IDE-Terminal-Based-IDE-"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo"></a>
 
 ---
 
@@ -56,8 +56,8 @@ A full-stack inventory app built as a **TDD kata**, with browsing, search and fi
 
 **Stack:** TypeScript · Node.js · Express · MongoDB · React · Tailwind CSS · Redux Toolkit · Cloudinary · Vercel · Render
 
-[![Live](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://apexmotors-orcin.vercel.app)
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SanampreetSingh/Car-Dealership-Inventory-System-Apex-Motors)
+<a href="https://apexmotors-orcin.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live"></a>
+<a href="https://github.com/SanampreetSingh/Car-Dealership-Inventory-System-Apex-Motors"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo"></a>
 
 ---
 
@@ -71,7 +71,7 @@ A deployed portal with secure authentication and role-based dashboards.
 
 **Stack:** MongoDB · Express · React · Node.js · Tailwind CSS · JWT · Nodemailer
 
-[![Live](https://img.shields.io/badge/Live_Project-000000?style=flat-square&logo=vercel&logoColor=white)](YOUR_PORTAL_LIVE_URL)
+<a href="https://studentacademicportal.vercel.app/"><img src="https://img.shields.io/badge/Live_Project-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live"></a>
 
 ---
 
@@ -85,43 +85,33 @@ A production food-ordering app built for a real client.
 
 **Stack:** MongoDB · Express · React · Node.js · Tailwind CSS · JWT · bcrypt · Razorpay
 
-[![Live](https://img.shields.io/badge/Live_Project-000000?style=flat-square&logo=vercel&logoColor=white)](YOUR_FLAVORS_LIVE_URL)
+<a href="https://www.bihariflavours.in/"><img src="https://img.shields.io/badge/Live_Project-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live"></a>
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages**
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+<img src="assets/stack-languages.png" height="48" alt="C++, Java, JavaScript, TypeScript, SQL" />
 
 **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+<img src="assets/stack-frontend.png" height="48" alt="React, Vite, Tailwind CSS, Redux Toolkit" />
 
 **Backend & Data**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+<img src="assets/stack-backend.png" height="48" alt="Node.js, Express, MongoDB, PostgreSQL, Socket.io" />
 
 **DevOps, Testing & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+<img src="assets/stack-devops.png" height="48" alt="Docker, Nginx, Jest, Git, Postman" />
 
 **Auth & Security:** JWT · OAuth 2.0 (Google) · bcrypt · WebSockets
 
 **Currently learning**
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
+
+<img src="assets/stack-learning.png" height="48" alt="Ruby on Rails" />
 
 ---
 
@@ -143,16 +133,6 @@ A production food-ordering app built for a real client.
 ## 🎓 Education
 
 **B.E. in Computer Science & Engineering**, Chandigarh University, Mohali (graduating July 2027) · CGPA 8.32/10
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Sanampreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanampreetSingh&show_icons=true&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
