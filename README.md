@@ -38,7 +38,7 @@ Every user gets their own isolated Linux container, plus a code editor, file exp
 - 🔐 **Email/password and Google OAuth 2.0 sign-in**, with JWT cookie authentication
 - 🧭 **Nginx reverse proxy** routing each user's traffic to their own container
 
-**Stack:** React · Vite · Monaco Editor · xterm.js · Tailwind CSS · Redux Toolkit · Node.js · Express · TypeScript · socket.io · node-pty · Docker · Nginx · MongoDB
+**Stack:** React · Vite · Monaco Editor · xterm.js · Tailwind CSS · Redux Toolkit · Node.js · Express · JavaScript · socket.io · node-pty · Docker · Nginx · MongoDB
 
 <a href="https://github.com/SanampreetSingh/Online-IDE-Terminal-Based-IDE-"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo"></a>
 
